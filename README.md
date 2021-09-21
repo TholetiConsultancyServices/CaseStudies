@@ -1,4 +1,3 @@
-# Kin + Carta CaseStudies iOS Test App
 
 ## Summary of implementation details:
 
